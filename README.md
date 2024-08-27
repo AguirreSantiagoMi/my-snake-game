@@ -1,5 +1,7 @@
 # Snake Game
 
+![alt](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25jcTcybWFxbjQ2ZnFzNTdiaDhxOXI3MGE0ZDRrM3B1ZjZ6NHY0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZsYkk7LmoKRsSInwQU/giphy.gif)
+
 Welcome to the **Snake Game** project, a classic implementation of the famous Snake game. This repository contains the source code and resources needed to play and modify this fun game.
 
 ## Description
